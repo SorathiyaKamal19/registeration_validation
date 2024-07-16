@@ -13,3 +13,5 @@ Currently, two official plugins are available:
 
 Here this Registration form is made with material ui and with validation so you can add a new validations also.
 if any error occur then Comment !!!!
+to run this install npm command -> (npm i)
+to run command on browser ->(npm run dev)
